@@ -1,0 +1,10 @@
+.btn-default{
+
+   font-size: 20px; 
+   border-radius: 10px;
+   background-color: cadetblue;
+
+}
+.btn-default > a {
+    padding: 5px;
+}

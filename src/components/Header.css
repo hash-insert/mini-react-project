@@ -1,0 +1,20 @@
+
+.head{
+  
+    display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+   background-color:lightgrey;
+   margin-top: 0px;
+   
+ }
+ 
+ .logo_react{
+    margin-right: 400px;
+   color: #646cff;
+ }
+
+ 
+ h3{
+   margin-right: 100px;
+ }
